@@ -14,8 +14,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ```javascript
 const amit = {
     pronouns: "He/Him",
@@ -49,16 +47,16 @@ const amit = {
 <div align="center">
 
 ### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
 
 ### 🌐 **Web Technologies**  
-<img src="https://skillicons.dev/icons?i=typescript,javascript,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=next,react,typescript,javascript,html,css&theme=dark" />
 
 ### 🗄️ **Backend & Database**
-<img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,php,git&theme=dark" />
 
 ### 🔧 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,jira,figma,postman&theme=dark" />
 
 </div>
 
