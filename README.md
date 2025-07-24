@@ -12,36 +12,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const amit = {
-    pronouns: "He/Him",
-    location: "Gujarat, India 🇮🇳",
-    currentRole: "Full-Stack Developer",
-    
-    code: {
-        mobile: ["Dart", "Flutter", "Kotlin", "Android"],
-        frontend: ["TypeScript", "JavaScript", "React"],
-        backend: ["PHP", "Node.js", "REST APIs"],
-        database: ["MySQL", "SQLite", "Firebase"],
-        tools: ["Git", "VS Code", "Android Studio"]
-    },
-    
-    currentFocus: "Building scalable mobile and web applications",
-    funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
-    
-    challenge: "I'm currently exploring AI/ML integration in mobile apps",
-    askMeAbout: ["Flutter", "Android", "Web Development", "System Design"],
-    
-    lifePhilosophy: "Code is poetry written in logic"
-};
-```
-
-<br clear="both"/>
-
----
-
 ## 🛠️ **Technology Stack**
 
 <div align="center">
@@ -56,25 +26,8 @@ const amit = {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,php,git&theme=dark" />
 
 ### 🔧 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,github,jira,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman&theme=dark" />
 
-</div>
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitkanjariya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amitkanjariya&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFF&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkanjariya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&border_radius=10&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkanjariya&custom_title=Amit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFDEE9&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -93,8 +46,7 @@ const amit = {
 **Complete financial management ecosystem**
 - 📱 Flutter mobile app with intuitive UI
 - 🔧 PHP backend with robust APIs
-- 💳 Transaction tracking & analytics
-- 🔐 Secure authentication system
+- 💳 Transaction Handling & Report Generation
 
 </td>
 <td width="50%">
@@ -106,7 +58,6 @@ const amit = {
 - ⚡ Real-time communication
 - 🎨 Modern TypeScript architecture
 - 💬 Group chat functionality
-- 🔔 Push notifications
 
 </td>
 </tr>
@@ -118,9 +69,8 @@ const amit = {
 
 **E-commerce platform**
 - 📱 Native Android development
-- 🛍️ Complete shopping experience
-- 💳 Payment gateway integration
-- 📊 Admin dashboard
+- 🛍️ Complete sell & buy product experience
+- 💬 Chat With Seller
 
 </td>
 <td width="50%">
@@ -132,40 +82,10 @@ const amit = {
 - 📱 Kotlin-based Android app
 - 🌐 NewsAPI integration
 - 📖 Offline reading capability
-- 🎨 Material Design UI
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎨 **Development Workflow**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[💡 Ideation] --> B[🎯 Planning]
-    B --> C[🎨 Design]
-    C --> D[⚡ Development]
-    D --> E[🧪 Testing]
-    E --> F[🚀 Deployment]
-    F --> G[📊 Monitoring]
-    G --> H[🔄 Optimization]
-    H --> A
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#96CEB4,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#FFEAA7,stroke:#fff,stroke-width:2px,color:#333
-    style F fill:#DDA0DD,stroke:#fff,stroke-width:2px,color:#fff
-    style G fill:#98D8C8,stroke:#fff,stroke-width:2px,color:#fff
-    style H fill:#F7DC6F,stroke:#fff,stroke-width:2px,color:#333
-```
 
 </div>
 
@@ -187,41 +107,6 @@ graph TD
 
 ---
 
-## 🚀 **Current Focus & Learning**
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Currently+Learning;Advanced+Flutter+Animations+%26+State+Management;🚀+Building;Cross-platform+Financial+Applications;AI-Powered+Mobile+Solutions" alt="Current Focus"/>
-
-</div>
-
-```yaml
-🎯 2024 Goals:
-  ✅ Master Flutter advanced animations
-  🔄 Implement microservices architecture
-  📱 Build AI-integrated mobile apps
-  🌐 Contribute to open-source projects
-  📚 Share knowledge through tech blogs
-
-🔥 Next Projects:
-  - Real-time collaboration platform
-  - AI-powered expense tracker
-  - Social commerce application
-  - Developer productivity tools
-```
-
----
-
-## 🏆 **Achievements & Recognition**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amitkanjariya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
@@ -230,11 +115,9 @@ graph TD
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/amitkanjariya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/amitkanjariya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:amit.kanjariya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)]([https://linkedin.com/in/amitkanjariya](https://www.linkedin.com/in/amit-kanjariya-235078269/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:amitkanjariya28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/amitkanjariya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://amitkanjariya.github.io)
 
 </div>
 
