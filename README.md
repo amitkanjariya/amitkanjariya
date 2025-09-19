@@ -33,15 +33,15 @@
 ---
 
 ## 🎯 **Featured Projects**
-
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
-### 💰 Cash-In-Out System
+### 💰 [Cash-In-Out System](https://github.com/amitkanjariya/cash-in-out)
+<a href="https://github.com/amitkanjariya/cash-in-out">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkanjariya&repo=cash-in-out&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_radius=10" alt="Cash-In-Out"/>
+</a>
 
 **Complete financial management ecosystem**
 - 📱 Flutter mobile app with intuitive UI
@@ -51,8 +51,10 @@
 </td>
 <td width="50%">
 
-### 💬 ChatZilla
+### 💬 [ChatZilla](https://github.com/amitkanjariya/chatZilla)
+<a href="https://github.com/amitkanjariya/chatZilla">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkanjariya&repo=chatZilla&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_radius=10" alt="ChatZilla"/>
+</a>
 
 **Real-time messaging platform**
 - ⚡ Real-time communication
@@ -64,8 +66,10 @@
 <tr>
 <td width="50%">
 
-### 🛒 reBazzar
+### 🛒 [reBazzar](https://github.com/amitkanjariya/reBazzar)
+<a href="https://github.com/amitkanjariya/reBazzar">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkanjariya&repo=reBazzar&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_radius=10" alt="reBazzar"/>
+</a>
 
 **E-commerce platform**
 - 📱 Native Android development
@@ -75,8 +79,10 @@
 </td>
 <td width="50%">
 
-### 📰 NewsApp
+### 📰 [NewsApp](https://github.com/amitkanjariya/NewsApp)
+<a href="https://github.com/amitkanjariya/NewsApp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkanjariya&repo=NewsApp&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_radius=10" alt="NewsApp"/>
+</a>
 
 **Smart news reader**
 - 📱 Kotlin-based Android app
@@ -86,7 +92,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
